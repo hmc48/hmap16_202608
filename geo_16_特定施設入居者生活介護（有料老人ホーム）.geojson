@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "geo_16_特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "有料老人ホーム　めぐみ【特定施設入居者生活介護（有料老人ホーム）】富山県富山市丸の内1丁目７‐１１有料老人ホーム　めぐみ", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670114162-00&ServiceCd=331&Type=search", "url2": "http://www.keiseikai-toyama.jp/yuryo.html" }, "geometry": { "type": "Point", "coordinates": [ 137.207887227028863, 36.692521453697104 ] } },
+{ "type": "Feature", "properties": { "内容": "ファミーユ【特定施設入居者生活介護（有料老人ホーム）】松若町331番地ファミーユ", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670114691-00&ServiceCd=331&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 137.2272013, 36.7169695 ] } },
+{ "type": "Feature", "properties": { "内容": "そう呉羽【特定施設入居者生活介護（有料老人ホーム）】富山県富山市呉羽町2164番地１", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670114071-00&ServiceCd=331&Type=search", "url2": "http://www.coronet-t.com/" }, "geometry": { "type": "Point", "coordinates": [ 137.160644587048182, 36.715671619405477 ] } },
+{ "type": "Feature", "properties": { "内容": "リビングふじ【特定施設入居者生活介護（有料老人ホーム）】富山県富山市藤木４３番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670114550-00&ServiceCd=331&Type=search", "url2": "http://www.coronet-t.com/" }, "geometry": { "type": "Point", "coordinates": [ 137.27359770000001, 36.6797932 ] } },
+{ "type": "Feature", "properties": { "内容": "リビングるい【特定施設入居者生活介護（有料老人ホーム）】本郷町22番地", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670112281-00&ServiceCd=331&Type=search", "url2": "http://coronet-t.com/" }, "geometry": { "type": "Point", "coordinates": [ 137.235961, 36.665347 ] } },
+{ "type": "Feature", "properties": { "内容": "リゾートビラ　雨晴【特定施設入居者生活介護（有料老人ホーム）】富山県高岡市太田伊勢領1511-13", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670201548-00&ServiceCd=331&Type=search", "url2": "https://mmn-villa.com" }, "geometry": { "type": "Point", "coordinates": [ 137.018617, 36.8225769 ] } }
+]
+}
