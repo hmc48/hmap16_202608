@@ -3,7 +3,7 @@
 "name": "geo_16_特定施設入居者生活介護（軽費老人ホーム）",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "内容": "ケアハウスめぐみ【特定施設入居者生活介護（軽費老人ホーム）】富山市丸の内３丁目３番２５号", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670104163-00&ServiceCd=332&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 137.209141600000066, 36.691569 ] } },
-{ "type": "Feature", "properties": { "内容": "ケアハウスそよかぜの郷【特定施設入居者生活介護（軽費老人ホーム）】稲代36番地ケアハウスそよかぜの郷", "url": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670113818-00&ServiceCd=332&Type=search", "url2": "http://www.ayumi-toyama.jp/soyokazenosato/index.html" }, "geometry": { "type": "Point", "coordinates": [ 137.1989072, 36.5711307 ] } }
+{ "type": "Feature", "properties": { "内容": "ケアハウスめぐみ【特定施設入居者生活介護（軽費老人ホーム）】富山市丸の内３丁目３番２５号", "url2": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670104163-00&ServiceCd=332&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 137.209141600000066, 36.691569 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウスそよかぜの郷【特定施設入居者生活介護（軽費老人ホーム）】稲代36番地ケアハウスそよかぜの郷", "url2": "https://www.kaigokensaku.mhlw.go.jp/16/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=1670113818-00&ServiceCd=332&Type=search" }, "geometry": { "type": "Point", "coordinates": [ 137.1989072, 36.5711307 ] } }
 ]
 }
